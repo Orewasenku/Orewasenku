@@ -15,14 +15,10 @@ Welcome to my GitHub profile! I'm passionate about **web development, React.js, 
 
 ## 🚀 Projects
 Check out some of my work:
-- 🌐 [Project 1]() - 
-- 📱 [Project 2]() - 
-- 🔗 [More Projects](#)
+- 🌐 [Project 1](github.com/Orewasenku/React-app) - 
 
 ## 📫 Connect With Me
 - GitHub: [@Orewasenku](https://github.com/Orewasenku)
-- LinkedIn: [Profile](#)
-- Twitter: [@YourHandle](#)
 
 Feel free to explore my repositories and contribute! Happy coding! 🎉
 
